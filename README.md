@@ -1,6 +1,6 @@
 ## Welcome!
 
-🌱 Full-stack web dev by day | Experimenting with AI at night | Solving problems with style
+🌱 Full-Stack Web Dev | .NET | SQL | Python | Powershell | Win & Linux | AWS | Solving problems with style
 <br><br>
 ⚡ Looking for a bit of fun? Try my [Tic-Tac-Toe](https://zenrajko.github.io/tic-tac-toe/) game (now with a smarter computer opponent) or my latest game: [Warehouse Shift](https://zenrajko.github.io/warehouse-shift/)!
 <br>
