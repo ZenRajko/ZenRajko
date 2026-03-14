@@ -1,6 +1,6 @@
 ## Welcome!
 
-⚡ Looking for a bit of fun? Try my [Tic-Tac-Toe](https://zenrajko.github.io/tic-tac-toe/) game (now with a smarter computer opponent) or my latest game: [Warehouse Shift](https://zenrajko.github.io/warehouse-shift/)!
+⚡ Looking for a bit of fun? Try [Tic-Tac-Toe](https://zenrajko.github.io/tic-tac-toe/) or [Warehouse Shift](https://zenrajko.github.io/warehouse-shift/) (WIP).
 <br>
 <p>
   &nbsp;&nbsp;
