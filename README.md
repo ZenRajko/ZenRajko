@@ -1,7 +1,5 @@
 ## Welcome!
 
-🌱 Full-Stack Web Dev | .NET | SQL | Python | Powershell | Win & Linux | AWS | Containers | Solving problems with style
-<br><br>
 ⚡ Looking for a bit of fun? Try my [Tic-Tac-Toe](https://zenrajko.github.io/tic-tac-toe/) game (now with a smarter computer opponent) or my latest game: [Warehouse Shift](https://zenrajko.github.io/warehouse-shift/)!
 <br>
 <p>
